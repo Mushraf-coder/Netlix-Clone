@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+   
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.imglogo{
+    width: 18%;
+   padding-left: 50px;
+   
+}
+.navbar{
+    
+    display: flex;
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    position:absolute;
+    padding-top: 20px;
+    
+    
+}
+.but{
+    padding-right: 150px;
+}
+.english{
+    height: 40px;
+    width: 100px;
+    background-color:black ;
+    color: white;
+    gap:20px;
+    margin-right: 20px;
+}
+.sign{
+    height: 40px;
+    width: 80px;
+    background-color: red;
+    color:white;
+    border-width: 0px;
+    border-radius: 10px;
+}
+.container{
+    background: url("https://assets.nflxext.com/ffe/siteui/vlv3/ab180a27-b661-44d7-a6d9-940cb32f2f4a/7fb62e44-31fd-4e1f-b6ad-0b5c8c2a20ef/IN-en-20231009-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 10px solid gray;
+
+}
+.page{
+    color:white;
+    text-align: center;
+  
+}
+.main-heading{
+    font-size:50px; 
+    padding-left:160px;
+    padding-top: 240px;
+    width: 950px;
+}
+.page2{
+    font-size: 25px;
+  
+
+}
+.page3{
+font-size: 20px;
+padding-top: 10px;
+}
+.div-last{
+    padding-top: 20px;
+
+}
+.form1{
+    width:350px;
+    height:55px;
+    background-color: #362c2b;
+    color: white;
+    font-size:18px;
+    
+}
+.but3{
+    height:60px;
+    width:200px;
+    color: white;
+    background-color: red;
+    font-size:24px;
+    margin-left: 5px;
+    border-width: 0px;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+
+.main{
+    background-color: black;
+    width: 100%;
+    height:500px;
+  color:white;
+  display: flex;
+  gap:50px;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 10px solid gray;
+  
+
+
+}
+#second{
+    background-color:red;
+    width: 100%;
+    height:500px;
+}
+.heading{
+    font-size: 55px;
+    width:500px;
+
+}
+.para{
+    width:500px;
+    font-size: 30px;
+}
+.image{
+    height:400px;
+    width:420;
+}
+.list{
+    list-style: none;
+
+}
+.link{
+    color:white;
+   padding:50px ;
+   
+}
